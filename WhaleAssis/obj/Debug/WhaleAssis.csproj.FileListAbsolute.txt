@@ -1,0 +1,11 @@
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\bin\Debug\WhaleAssis.exe.config
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\bin\Debug\WhaleAssis.exe
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\bin\Debug\WhaleAssis.pdb
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.csproj.AssemblyReference.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.csproj.SuggestedBindingRedirects.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.Properties.Resources.resources
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.csproj.GenerateResource.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.csproj.CoreCompileInputs.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.exe
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.pdb
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Debug\WhaleAssis.Form1.resources

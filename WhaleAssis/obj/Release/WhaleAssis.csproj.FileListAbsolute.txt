@@ -1,0 +1,10 @@
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\bin\Release\WhaleAssis.exe.config
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\bin\Release\WhaleAssis.exe
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\bin\Release\WhaleAssis.pdb
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.csproj.AssemblyReference.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.Form1.resources
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.Properties.Resources.resources
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.csproj.GenerateResource.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.csproj.CoreCompileInputs.cache
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.exe
+C:\Users\another\RiderProjects\WhaleAssis\WhaleAssis\obj\Release\WhaleAssis.pdb
